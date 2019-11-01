@@ -1,0 +1,49 @@
+
+.slide-heading, h1, h2, h3, h4, h5, h6, .h1, .h2, .h3, .h4, .h5, .h6{
+ font-family:'Lato', sans-serif;
+}
+.sign-up .btn-theme, #footer .charity,.list-unstyled li:before,.video-section h2 ,.video-section .play-btn ,.quote-mark,.footer-logo a,
+.main-slider .banner-slider h2 strong,.main-slider .btn,.helping-child .btn-theme,.contact-address a[href^="mailto:"],.slider-third .tp-caption .btn.btn-default
+{
+	color: #ecc731;
+}
+.navbar-default, .panel-default > .panel-heading, .sign-up .btn-theme:hover, .sign-up .btn-theme:focus, .nav-tabs > li > a, .progress, .progress-value, .navbar-nav > li > .dropdown-menu,.btn-bg,.tp-bullets.simplebullets.round .bullet.selected,.testimonial-slider .flex-control-paging a.flex-active,.article-list .progress-bar, .article-list-large .progress-bar,.warning-icon-box,.btn-default:hover, .btn-default:focus,.modal-content button.close,.header-third .brand,.header-third .nav-content:before,.news-section3 .volunteer-reward,.header-second .form-group ,.faq .collape-plus,.choose-pricing .btn-default.active,input:focus,textarea:focus,.btn-width:focus,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active,.helping-child .btn-theme:hover {
+	
+	background-color:#ecc731;
+}
+.svg-shape path{
+	fill:#ecc731;
+}
+ .btn-default:hover, .btn-default:focus{
+border-color: #4d4641;
+}
+.navbar-default, .navbar-default .navbar-collapse, .navbar-default .navbar-form, .sign-up .btn-theme,.main-slider .btn {
+	border-color: #c4a62d;
+}
+blockquote {
+	border-left: 5px solid #ecc731;
+}
+.blockquote-reverse {
+	border-right: 5px solid #ecc731;
+}
+h1 strong, .h1 strong, h2 strong, .h2 strong, h3 strong, .h3 strong, h2 strong, .h2 strong, h4 strong, .h4 strong{
+	border-bottom-color:#ecc731;
+}
+.helping-child .btn-theme,.content-wrapper .faq-header  h2 strong,.choose-pricing .btn-default.active,.choose-pricing .btn-default:hover, .choose-pricing .btn-default.active ,.slider-third .tp-caption .btn.btn-default,.shop-today a.btn:hover,.pagination > .active > a, .pagination > .active > span, .pagination > .active > a:hover, .pagination > .active > span:hover, .pagination > .active > a:focus, .pagination > .active > span:focus ,.pagination > li > a:hover, .pagination > li > span:hover, .pagination > li > a:focus, .pagination > li > span:focus{
+	border-color:#ecc731;
+}
+.navbar-nav > li > .dropdown-menu > ul > li > a {
+	border-bottom: 1px solid #ecc731;
+}
+.progress-value:before {
+	border-top: 4px solid #ecc731;
+}
+.progress-value:after{
+	border-top: 4px solid #ecc731;
+}
+.tp-bullets.simplebullets.round .bullet,.testimonial-slider .flex-control-paging a{
+	border: 2px solid #ecc731;
+}
+.navbar-nav > li > .dropdown-menu, .navbar-nav .open .dropdown-menu {
+	background: #e8bf19;
+}
