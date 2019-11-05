@@ -46,7 +46,7 @@
                                 data-y="304"
                                 data-x="152"
                                 class="tp-caption sft banner-summary">
-                           
+
                         </div>
 
                         <div
@@ -146,7 +146,7 @@
                                 data-y="244"
                                 data-x="152"
                                 class="tp-caption sft third-style banner-summary banner-description">
-                           
+
                         </div>
 
                         <div
@@ -177,7 +177,7 @@
                             <ul class="slides">
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/6.jpeg')}}" alt="" style=>
@@ -188,14 +188,14 @@
                                                 <span class="progress-value">72% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a  href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/12.jpeg')}}" alt="">
@@ -206,14 +206,14 @@
                                                 <span class="progress-value">60% </span>
                                             </div>
                                         </div>
-                                       
-                                        
+
+
                                         <a href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/24.jpeg')}}" alt="">
@@ -224,14 +224,14 @@
                                                 <span class="progress-value">80% </span>
                                             </div>
                                         </div>
-                                       
-                                        
+
+
                                         <a href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/7.jpeg')}}" alt="">
@@ -242,14 +242,14 @@
                                                 <span class="progress-value">72% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/8.jpeg')}}" alt="">
@@ -260,14 +260,14 @@
                                                 <span class="progress-value">60% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/15.jpeg')}}" alt="">
@@ -278,14 +278,14 @@
                                                 <span class="progress-value">80% </span>
                                             </div>
                                         </div>
-                                       
-                                        
+
+
                                         <a href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/11.jpeg')}}" alt="">
@@ -296,14 +296,14 @@
                                                 <span class="progress-value">72% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a  href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                       
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/28.jpeg')}}" alt="">
@@ -314,14 +314,14 @@
                                                 <span class="progress-value">60% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a  href="/donations"  class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
                                 <li>
                                     <div class="items zoom">
-                                        
+
                                         <a href="#" class="img-thumb">
                                             <figure>
                                                 <img src="{{asset('asset/img/bosco/25.jpeg')}}" alt="">
@@ -332,8 +332,8 @@
                                                 <span class="progress-value">80% </span>
                                             </div>
                                         </div>
-                                       
-                                       
+
+
                                         <a  href="/donations" class="btn btn-default">DONATE NOW</a>
                                     </div>
                                 </li>
