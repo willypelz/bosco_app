@@ -431,9 +431,9 @@
                             <div class="items zoom col-xs-12 col-sm-4">
                                 <a href="#" class="img-thumb">
                                     <figure>
-                                        <?php $image=DB::table('image')->where('post_id', $posts->id)->first();?>
+                                        <?php // $image= DB::table('image')->where('post_id', $posts->id)->first();?>
 
-                                        <img src="{{asset('image/'.$image->image)}}" alt="" style="width:350px; height:200px">
+{{--                                        <img src="{{asset('image/'.$image->image)}}" alt="" style="width:350px; height:200px">--}}
 
                                     </figure>
                                 </a>
