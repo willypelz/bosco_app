@@ -443,7 +443,7 @@
                                 <p>
                                     {{substr(strip_tags($posts->body), 0, 150)}}...
                                 </p>
-                                <a href="{{route('singlePost',$posts->id)}}" class="btn btn-default">READ MORE</a>
+                                <a href="{{route('blogPost',$posts->id)}}" class="btn btn-default">READ MORE</a>
                             </div>
                                 @endforeach
                         </div>
